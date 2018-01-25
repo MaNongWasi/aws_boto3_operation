@@ -1,4 +1,4 @@
-# aws_boto_putitem
+# aws_boto3 example
 use boto3 from AWS to insert data to dynamodb
 
 install boto3 and configure 
